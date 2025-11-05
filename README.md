@@ -3,11 +3,11 @@
 
 ## 📂 Challenge Roadmap
 
-| Day | Topic | Folder |
-|-----|-------|--------|
-| 1 | Introduction to SQL & SELECT | [Day_01](./Day_01) |
-| 2 | Filtering Data with WHERE Clause | [Day_02](./Day_02) |
-| 3 | Sorting Data with ORDER BY | [Day_03](./Day_03) |
-| 4 | LIMIT and OFFSET | [Day_04](./Day_04) |
+| Day |Date| Topic | Folder |
+|-----|-----|-------|--------|
+| 1 |03/11/25| Introduction to SQL & SELECT | [Day_01](./Day_01) |
+| 2 |04/11/25| Filtering Data with WHERE Clause | [Day_02](./Day_02) |
+| 3 |05/11/25| Sorting Data with ORDER BY | [Day_03](./Day_03) |
+| 4 |06/11/25| LIMIT and OFFSET | [Day_04](./Day_04) |
 
 
