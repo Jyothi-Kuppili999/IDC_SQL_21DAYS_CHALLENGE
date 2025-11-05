@@ -8,5 +8,4 @@
 | 1 | Introduction to SQL & SELECT | [Day_01](./Day_01) |
 | 2 | Filtering Data with WHERE Clause | [Day_02](./Day_02) |
 | 3 | Sorting Data with ORDER BY | [Day_03](./Day_03) |
-| 4 | Aggregate Functions | [Day_04](./Day_04) |
-| 5 | GROUP BY & HAVING | [Day_05](./Day_05) |
+
