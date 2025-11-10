@@ -11,7 +11,7 @@
 | 4 |06/11/25| LIMIT and OFFSET | [Day_04](./Day_04) |
 | 5 |07/11/25| Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | [Day_05](./Day_05) |
 | 6 |08/11/25| Knowledge Session-1 | [Knowledge Session 1](./Knowledge_Session_1) |
-| 7 |09/11/25| GROUP BY Clause| [Day_07](./Day_06) |
-| 8 |10/11/25| HAVING Clause | [Day_08](./Day_07) |
+| 7 |09/11/25| GROUP BY Clause| [Day_06](./Day_06) |
+| 8 |10/11/25| HAVING Clause | [Day_07](./Day_07) |
 
 
