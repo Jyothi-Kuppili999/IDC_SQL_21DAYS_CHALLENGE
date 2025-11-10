@@ -11,7 +11,7 @@ Wrapped up the session with an interactive quiz and I’m glad to share that I s
 A fun and competitive way to reinforce the learning. 💪
 
 📈 This session not only enhanced my technical understanding of SQL but also reinforced the importance of continuous learning and disciplined practice.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0c50ea20-e835-4425-b47c-f93421d166a9" />
+       <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0c50ea20-e835-4425-b47c-f93421d166a9" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/765a119f-2d3a-4d61-98c6-77452191eafa" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5e63d0f8-5865-4786-9474-a32d8ff4a730" />
 
 
