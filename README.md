@@ -13,5 +13,12 @@
 | 6 |08/11/25| Knowledge Session-1 | [Knowledge Session 1](./Knowledge_Session_1) |
 | 7 |09/11/25| GROUP BY Clause| [Day_06](./Day_06) |
 | 8 |10/11/25| HAVING Clause | [Day_07](./Day_07) |
+| 9 |11/11/25| String Functions | [Day_08](./Day_08) |
+| 10 |12/11/25| Date Functions | [Day_09](./Day_09) |
+| 11 |13/11/25| CASE Statements | [Day_10](./Day_10) |
+| 12 |14/11/25| DISTINCT and Handling Duplicates | [Day_11](./Day_11) |
+| 13 |15/11/25| NULL Values and IS NULL/IS NOT NULL | [Day_12](./Day_12) |
+| 14 |16/11/25| Knowledge Session-2 | [Day_13](./Day_13) |
+| 15 |17/11/25| INNER JOIN | [Day_07](./Day_14) |
 
 
