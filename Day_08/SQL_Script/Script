@@ -1,0 +1,29 @@
+-- Day8
+### Practice Questions:
+
+-- 1. Convert all patient names to uppercase.
+SELECT UPPER(name) as PATIENT_NAME
+FROM patients;
+-- 2. Find the length of each staff member's name.
+SELECT distinct staff_name,LENGTH(staff_name) as name_length
+from staff_schedule;
+
+-- 3. Concatenate staff_id and staff_name with a hyphen separator.
+SELECT distinct staff_id,staff_name,CONCAT(staff_id,' - ',staff_name) as staff_info
+from staff_schedule
+
+### Daily Challenge:
+
+-- **Question:** Create a patient summary that shows patient_id, full name in uppercase, service in lowercase, age category (if age >= 65 then 'Senior', if age >= 18 then 'Adult', else 'Minor'), 
+-- and name length. Only show patients whose name length is greater than 10 characters.
+SELECT patient_id,
+       UPPER(name) as PATIENT_NAME,
+       LOWER(service) as Service,
+       CASE
+       WHEN age >= 65 then 'Senior' 
+       WHEN age >= 18 then 'Adult' 
+       ELSE 'Minor'
+       END as Age_group,
+       LENGTH(name) as name_length
+FROM patients
+where LENGTH(name)>10;
